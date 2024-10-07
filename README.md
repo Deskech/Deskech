@@ -17,7 +17,7 @@ I'm a passionate backend developer in **Java Spring Boot**. I enjoy building sca
 
 ## 📫 Connect with Me
 
-- - 📧 Email: [your-email@example.com](mailto:jose.manuellinan@hotmail.com)
+- - 📧 Email: [My email](mailto:jose.manuellinan@hotmail.com)
 - Feel free to reach out if you want to collaborate or just chat about software development!
 
 Thanks for visiting my profile!
