@@ -11,7 +11,7 @@ I'm a passionate backend developer in **Java Spring Boot**. I enjoy building sca
 ## 🚀 Technologies & Tools
 
 - **Languages:** Java , JavaScript, SQL
-- **Frameworks:** Spring Boot, Express.js
+- **Frameworks:** Spring Boot, Node.js
 - **Design Patterns:** CQRS, Event Sourcing, Hexagonal Architecture
 - **Databases:** MySQL
 
