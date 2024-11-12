@@ -6,7 +6,7 @@ I'm a passionate backend developer in **Java Spring Boot**. I enjoy building sca
 
 - I specialize in developing solutions for small businesses that require high-quality software.
 - I have understanding of design patterns such as **CQRS**, **Event Sourcing**, and **Hexagonal Architecture**.
-- I love exploring new technologies and continuously improving my skills.
+
 
 ## 🚀 Technologies & Tools
 
