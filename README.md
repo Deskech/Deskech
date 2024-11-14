@@ -13,11 +13,11 @@ I'm a passionate backend developer in **Java Spring Boot**. I enjoy building sca
 - **Languages:** Java , JavaScript, SQL
 - **Frameworks:** Spring Boot, Node.js
 - **Design Patterns:** CQRS, Event Sourcing, Hexagonal Architecture
-- **Databases:** MySQL
+- **Databases:** MySQL, Redis
 
 ## 📫 Connect with Me
 
 - 📧 Email: [My email](mailto:jose.manuellinan@hotmail.com)
-- Feel free to reach out if you want to collaborate or just chat about software development!
+- Feel free to reach out if you want to collaborate.
 
 Thanks for visiting my profile!
