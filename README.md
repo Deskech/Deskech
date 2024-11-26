@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Jose!
+# I'm Jose!
 
 I'm a passionate backend developer in **Java Spring Boot**. I enjoy building scalable and robust applications that provide value to users and businesses alike.
 
